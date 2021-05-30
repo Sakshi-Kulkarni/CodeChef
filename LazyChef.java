@@ -57,35 +57,4 @@ public class LazyChef{
 		}
 	}
 }
-/*public class XorEquality {
-	*#include <bits/stdc++.h>
-
-using namespace std;
-
-
-int main() {
-   /* int t;
-
-	cin>>t;
-null n;
-	while(t--)
-
-	{
-      cin>>n;
-      null ans;
-      if(n==1)count<<"1\n";
-      else{
-          n--;
-          null a=2;
-          null ans=1;
-          while (n>0) {
-                if(n&1)ans=ans*a%MODULO;
-                a=a*a%MODULO;
-                n>>=1;              
-          }
-          count<<ans<<"\n";
-      }
-    }
-    return 0;
-
-}*/
+ 
